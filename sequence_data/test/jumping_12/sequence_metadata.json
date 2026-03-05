@@ -1,0 +1,33 @@
+{
+  "sequence_id": "jumping_12",
+  "activity": "jumping",
+  "recording_id": 12,
+  "folder": "jumping_12-2026-03-05_09-12-57",
+  "duration": 4.8452978515625,
+  "n_windows": 3,
+  "window_size": 2.0,
+  "overlap": 0.5,
+  "windows": [
+    {
+      "window_id": "w00",
+      "start": 0.0,
+      "end": 2.0,
+      "accel_points": 198,
+      "gyro_points": 198
+    },
+    {
+      "window_id": "w01",
+      "start": 1.0,
+      "end": 3.0,
+      "accel_points": 199,
+      "gyro_points": 199
+    },
+    {
+      "window_id": "w02",
+      "start": 2.0,
+      "end": 4.0,
+      "accel_points": 199,
+      "gyro_points": 199
+    }
+  ]
+}

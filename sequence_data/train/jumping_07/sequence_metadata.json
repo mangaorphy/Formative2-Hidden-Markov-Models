@@ -1,0 +1,68 @@
+{
+  "sequence_id": "jumping_07",
+  "activity": "jumping",
+  "recording_id": 7,
+  "folder": "jumping_7-2026-03-05_09-09-00",
+  "duration": 9.66752294921875,
+  "n_windows": 8,
+  "window_size": 2.0,
+  "overlap": 0.5,
+  "windows": [
+    {
+      "window_id": "w00",
+      "start": 0.0,
+      "end": 2.0,
+      "accel_points": 192,
+      "gyro_points": 192
+    },
+    {
+      "window_id": "w01",
+      "start": 1.0,
+      "end": 3.0,
+      "accel_points": 199,
+      "gyro_points": 199
+    },
+    {
+      "window_id": "w02",
+      "start": 2.0,
+      "end": 4.0,
+      "accel_points": 199,
+      "gyro_points": 199
+    },
+    {
+      "window_id": "w03",
+      "start": 3.0,
+      "end": 5.0,
+      "accel_points": 199,
+      "gyro_points": 199
+    },
+    {
+      "window_id": "w04",
+      "start": 4.0,
+      "end": 6.0,
+      "accel_points": 200,
+      "gyro_points": 200
+    },
+    {
+      "window_id": "w05",
+      "start": 5.0,
+      "end": 7.0,
+      "accel_points": 199,
+      "gyro_points": 199
+    },
+    {
+      "window_id": "w06",
+      "start": 6.0,
+      "end": 8.0,
+      "accel_points": 199,
+      "gyro_points": 199
+    },
+    {
+      "window_id": "w07",
+      "start": 7.0,
+      "end": 9.0,
+      "accel_points": 199,
+      "gyro_points": 199
+    }
+  ]
+}

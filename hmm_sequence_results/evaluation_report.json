@@ -1,0 +1,136 @@
+{
+  "overall_accuracy": 0.875,
+  "n_hidden_states": 3,
+  "n_features": 90,
+  "train_sequences": 34,
+  "test_sequences": 16,
+  "activities": [
+    "jumping",
+    "standing",
+    "still",
+    "walking"
+  ],
+  "per_activity_metrics": [
+    {
+      "activity": "jumping",
+      "n_test_samples": 4,
+      "sensitivity": 1.0,
+      "specificity": 0.9166666666666666,
+      "accuracy": 1.0,
+      "tp": 4,
+      "fp": 1,
+      "fn": 0,
+      "tn": 11
+    },
+    {
+      "activity": "standing",
+      "n_test_samples": 4,
+      "sensitivity": 0.75,
+      "specificity": 1.0,
+      "accuracy": 0.75,
+      "tp": 3,
+      "fp": 0,
+      "fn": 1,
+      "tn": 12
+    },
+    {
+      "activity": "still",
+      "n_test_samples": 4,
+      "sensitivity": 0.75,
+      "specificity": 1.0,
+      "accuracy": 0.75,
+      "tp": 3,
+      "fp": 0,
+      "fn": 1,
+      "tn": 12
+    },
+    {
+      "activity": "walking",
+      "n_test_samples": 4,
+      "sensitivity": 1.0,
+      "specificity": 0.9166666666666666,
+      "accuracy": 1.0,
+      "tp": 4,
+      "fp": 1,
+      "fn": 0,
+      "tn": 11
+    }
+  ],
+  "transition_matrices": {
+    "jumping": [
+      [
+        1.0,
+        2.813826758490206e-123,
+        0.0
+      ],
+      [
+        0.33333333333334597,
+        0.33333333333332704,
+        0.33333333333332704
+      ],
+      [
+        0.0,
+        0.5,
+        0.5
+      ]
+    ],
+    "standing": [
+      [
+        0.846153911816354,
+        3.0634968859000765e-74,
+        0.15384608818364603
+      ],
+      [
+        5.577719030960737e-100,
+        1.0,
+        1.303729852541903e-101
+      ],
+      [
+        0.42857034257902177,
+        0.2857168884790232,
+        0.285712768941955
+      ]
+    ],
+    "still": [
+      [
+        1.0
+      ]
+    ],
+    "walking": [
+      [
+        0.8571428571428525,
+        0.14285714285714748
+      ],
+      [
+        7.055424711555374e-164,
+        1.0
+      ]
+    ]
+  },
+  "confusion_matrix": [
+    [
+      4,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      3,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      3,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      4
+    ]
+  ]
+}

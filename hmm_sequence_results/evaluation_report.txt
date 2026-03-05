@@ -1,0 +1,25 @@
+======================================================================
+SEQUENCE-BASED HMM ACTIVITY RECOGNITION - EVALUATION REPORT
+======================================================================
+
+Overall Accuracy: 87.50%
+
+Training sequences: 34
+Test sequences: 16
+Hidden states per HMM: 3
+Feature dimensions: 90
+
+----------------------------------------------------------------------
+State (Activity)        Samples  Sensitivity  Specificity   Accuracy
+----------------------------------------------------------------------
+jumping                       4      100.0%       91.7%    100.0%
+standing                      4       75.0%      100.0%     75.0%
+still                         4       75.0%      100.0%     75.0%
+walking                       4      100.0%       91.7%    100.0%
+----------------------------------------------------------------------
+
+Confusion Matrix:
+[[4 0 0 0]
+ [1 3 0 0]
+ [0 0 3 1]
+ [0 0 0 4]]

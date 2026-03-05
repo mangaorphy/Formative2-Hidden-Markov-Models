@@ -1,0 +1,2639 @@
+{
+  "window_size": 2.0,
+  "overlap": 0.5,
+  "min_windows": 3,
+  "train_sequences": [
+    {
+      "sequence_id": "standing_01",
+      "activity": "standing",
+      "recording_id": 1,
+      "folder": "standing_1-2026-03-05_08-04-52",
+      "duration": 7.65419677734375,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "standing_02",
+      "activity": "standing",
+      "recording_id": 2,
+      "folder": "standing_2-2026-03-05_08-04-41",
+      "duration": 7.118793701171875,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "standing_03",
+      "activity": "standing",
+      "recording_id": 3,
+      "folder": "standing_3-2026-03-05_08-04-28",
+      "duration": 6.99892041015625,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 192,
+          "gyro_points": 192
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "standing_04",
+      "activity": "standing",
+      "recording_id": 4,
+      "folder": "standing_4-2026-03-05_08-04-16",
+      "duration": 6.91988232421875,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "standing_05",
+      "activity": "standing",
+      "recording_id": 5,
+      "folder": "standing_5-2026-03-05_08-04-03",
+      "duration": 7.358546630859375,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 192,
+          "gyro_points": 192
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "standing_06",
+      "activity": "standing",
+      "recording_id": 6,
+      "folder": "standing_6-2026-03-05_08-03-53",
+      "duration": 6.23331689453125,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "standing_07",
+      "activity": "standing",
+      "recording_id": 7,
+      "folder": "standing_7-2026-03-05_08-03-40",
+      "duration": 6.475999755859375,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 192,
+          "gyro_points": 192
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "standing_08",
+      "activity": "standing",
+      "recording_id": 8,
+      "folder": "standing_8-2026-03-05_08-03-30",
+      "duration": 6.168059814453125,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "walking_01",
+      "activity": "walking",
+      "recording_id": 1,
+      "folder": "walking_1-2026-03-05_09-25-10",
+      "duration": 7.066908935546875,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 192,
+          "gyro_points": 192
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "walking_10",
+      "activity": "walking",
+      "recording_id": 10,
+      "folder": "walking_10-2026-03-05_09-23-55",
+      "duration": 6.3553134765625,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "walking_02",
+      "activity": "walking",
+      "recording_id": 2,
+      "folder": "walking_2-2026-03-05_09-25-02",
+      "duration": 7.705121826171875,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "walking_03",
+      "activity": "walking",
+      "recording_id": 3,
+      "folder": "walking_3-2026-03-05_09-24-52",
+      "duration": 8.96589599609375,
+      "n_windows": 7,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 192,
+          "gyro_points": 192
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w06",
+          "start": 6.0,
+          "end": 8.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "walking_04",
+      "activity": "walking",
+      "recording_id": 4,
+      "folder": "walking_4-2026-03-05_09-24-44",
+      "duration": 7.145240478515625,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "walking_05",
+      "activity": "walking",
+      "recording_id": 5,
+      "folder": "walking_5-2026-03-05_09-24-36",
+      "duration": 6.931236083984375,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "walking_06",
+      "activity": "walking",
+      "recording_id": 6,
+      "folder": "walking_6-2026-03-05_09-24-27",
+      "duration": 7.2251435546875,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "walking_07",
+      "activity": "walking",
+      "recording_id": 7,
+      "folder": "walking_7-2026-03-05_09-24-18",
+      "duration": 7.00223193359375,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "walking_08",
+      "activity": "walking",
+      "recording_id": 8,
+      "folder": "walking_8-2026-03-05_09-24-11",
+      "duration": 5.951109375,
+      "n_windows": 4,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "walking_09",
+      "activity": "walking",
+      "recording_id": 9,
+      "folder": "walking_9-2026-03-05_09-24-03",
+      "duration": 6.66625927734375,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "jumping_01",
+      "activity": "jumping",
+      "recording_id": 1,
+      "folder": "jumping_1-2026-03-05_09-10-01",
+      "duration": 7.80038720703125,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 192,
+          "gyro_points": 192
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "jumping_02",
+      "activity": "jumping",
+      "recording_id": 2,
+      "folder": "jumping_2-2026-03-05_09-09-51",
+      "duration": 8.95014892578125,
+      "n_windows": 7,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w06",
+          "start": 6.0,
+          "end": 8.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "jumping_03",
+      "activity": "jumping",
+      "recording_id": 3,
+      "folder": "jumping_3-2026-03-05_09-09-42",
+      "duration": 8.505149169921875,
+      "n_windows": 7,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 192,
+          "gyro_points": 192
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w06",
+          "start": 6.0,
+          "end": 8.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "jumping_04",
+      "activity": "jumping",
+      "recording_id": 4,
+      "folder": "jumping_4-2026-03-05_09-09-32",
+      "duration": 8.377052001953125,
+      "n_windows": 7,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w06",
+          "start": 6.0,
+          "end": 8.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "jumping_05",
+      "activity": "jumping",
+      "recording_id": 5,
+      "folder": "jumping_5-2026-03-05_09-09-21",
+      "duration": 10.40570068359375,
+      "n_windows": 9,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 194,
+          "gyro_points": 194
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 200,
+          "gyro_points": 200
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w06",
+          "start": 6.0,
+          "end": 8.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w07",
+          "start": 7.0,
+          "end": 9.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w08",
+          "start": 8.0,
+          "end": 10.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "jumping_06",
+      "activity": "jumping",
+      "recording_id": 6,
+      "folder": "jumping_6-2026-03-05_09-09-11",
+      "duration": 7.8656513671875,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 192,
+          "gyro_points": 192
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "jumping_07",
+      "activity": "jumping",
+      "recording_id": 7,
+      "folder": "jumping_7-2026-03-05_09-09-00",
+      "duration": 9.66752294921875,
+      "n_windows": 8,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 192,
+          "gyro_points": 192
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 200,
+          "gyro_points": 200
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w06",
+          "start": 6.0,
+          "end": 8.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w07",
+          "start": 7.0,
+          "end": 9.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "jumping_08",
+      "activity": "jumping",
+      "recording_id": 8,
+      "folder": "jumping_8-2026-03-05_09-08-46",
+      "duration": 8.78788037109375,
+      "n_windows": 7,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 192,
+          "gyro_points": 192
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 200,
+          "gyro_points": 200
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w06",
+          "start": 6.0,
+          "end": 8.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "still_01",
+      "activity": "still",
+      "recording_id": 1,
+      "folder": "still_1-2026-03-05_09-16-28",
+      "duration": 6.290162353515625,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 192,
+          "gyro_points": 192
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "still_02",
+      "activity": "still",
+      "recording_id": 2,
+      "folder": "still_2-2026-03-05_09-16-20",
+      "duration": 6.674933349609375,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "still_03",
+      "activity": "still",
+      "recording_id": 3,
+      "folder": "still_3-2026-03-05_09-16-12",
+      "duration": 6.765693359375,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "still_04",
+      "activity": "still",
+      "recording_id": 4,
+      "folder": "still_4-2026-03-05_09-16-03",
+      "duration": 7.49364404296875,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "still_05",
+      "activity": "still",
+      "recording_id": 5,
+      "folder": "still_5-2026-03-05_09-15-55",
+      "duration": 7.4007880859375,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "still_06",
+      "activity": "still",
+      "recording_id": 6,
+      "folder": "still_6-2026-03-05_09-15-47",
+      "duration": 7.265992919921875,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 200,
+          "gyro_points": 200
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "still_07",
+      "activity": "still",
+      "recording_id": 7,
+      "folder": "still_7-2026-03-05_09-15-38",
+      "duration": 7.0824287109375,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "still_08",
+      "activity": "still",
+      "recording_id": 8,
+      "folder": "still_8-2026-03-05_09-15-31",
+      "duration": 6.577310546875,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    }
+  ],
+  "test_sequences": [
+    {
+      "sequence_id": "standing_10",
+      "activity": "standing",
+      "recording_id": 10,
+      "folder": "standing_10-2026-03-05_08-02-59",
+      "duration": 10.428475341796876,
+      "n_windows": 9,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 197,
+          "gyro_points": 197
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w06",
+          "start": 6.0,
+          "end": 8.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w07",
+          "start": 7.0,
+          "end": 9.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w08",
+          "start": 8.0,
+          "end": 10.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "standing_11",
+      "activity": "standing",
+      "recording_id": 11,
+      "folder": "standing_11-2026-03-05_09-07-55",
+      "duration": 7.95881201171875,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 200,
+          "gyro_points": 200
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "standing_12",
+      "activity": "standing",
+      "recording_id": 12,
+      "folder": "standing_12-2026-03-05_09-07-43",
+      "duration": 7.721962890625,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 196,
+          "gyro_points": 196
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "standing_09",
+      "activity": "standing",
+      "recording_id": 9,
+      "folder": "standing_9-2026-03-05_08-03-19",
+      "duration": 8.169017333984375,
+      "n_windows": 7,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w06",
+          "start": 6.0,
+          "end": 8.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "walking_11",
+      "activity": "walking",
+      "recording_id": 11,
+      "folder": "walking_11-2026-03-05_09-28-29",
+      "duration": 6.866656982421875,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 192,
+          "gyro_points": 192
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "walking_12",
+      "activity": "walking",
+      "recording_id": 12,
+      "folder": "walking_12-2026-03-05_09-28-23",
+      "duration": 5.72275439453125,
+      "n_windows": 4,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "walking_13",
+      "activity": "walking",
+      "recording_id": 13,
+      "folder": "walking_13-2026-03-05_09-28-11",
+      "duration": 7.582286865234375,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 192,
+          "gyro_points": 192
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "walking_14",
+      "activity": "walking",
+      "recording_id": 14,
+      "folder": "walking_14-2026-03-05_09-28-04",
+      "duration": 6.590282470703125,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "jumping_10",
+      "activity": "jumping",
+      "recording_id": 10,
+      "folder": "jumping_10-2026-03-05_09-13-11",
+      "duration": 7.039501953125,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "jumping_11",
+      "activity": "jumping",
+      "recording_id": 11,
+      "folder": "jumping_11-2026-03-05_09-13-04",
+      "duration": 6.714919921875,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 192,
+          "gyro_points": 192
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "jumping_12",
+      "activity": "jumping",
+      "recording_id": 12,
+      "folder": "jumping_12-2026-03-05_09-12-57",
+      "duration": 4.8452978515625,
+      "n_windows": 3,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 198,
+          "gyro_points": 198
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "jumping_09",
+      "activity": "jumping",
+      "recording_id": 9,
+      "folder": "jumping_9-2026-03-05_09-13-24",
+      "duration": 7.402172119140625,
+      "n_windows": 6,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w05",
+          "start": 5.0,
+          "end": 7.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "still_10",
+      "activity": "still",
+      "recording_id": 10,
+      "folder": "still_10-2026-03-05_09-15-15",
+      "duration": 6.74676708984375,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "still_11",
+      "activity": "still",
+      "recording_id": 11,
+      "folder": "still_11-2026-03-05_09-22-56",
+      "duration": 6.919379638671875,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 192,
+          "gyro_points": 192
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 200,
+          "gyro_points": 200
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "still_12",
+      "activity": "still",
+      "recording_id": 12,
+      "folder": "still_12-2026-03-05_09-22-49",
+      "duration": 6.036976318359375,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    },
+    {
+      "sequence_id": "still_09",
+      "activity": "still",
+      "recording_id": 9,
+      "folder": "still_9-2026-03-05_09-15-24",
+      "duration": 6.424514892578125,
+      "n_windows": 5,
+      "window_size": 2.0,
+      "overlap": 0.5,
+      "windows": [
+        {
+          "window_id": "w00",
+          "start": 0.0,
+          "end": 2.0,
+          "accel_points": 193,
+          "gyro_points": 193
+        },
+        {
+          "window_id": "w01",
+          "start": 1.0,
+          "end": 3.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w02",
+          "start": 2.0,
+          "end": 4.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w03",
+          "start": 3.0,
+          "end": 5.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        },
+        {
+          "window_id": "w04",
+          "start": 4.0,
+          "end": 6.0,
+          "accel_points": 199,
+          "gyro_points": 199
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "train": {
+      "standing": 8,
+      "walking": 10,
+      "jumping": 8,
+      "still": 8
+    },
+    "test": {
+      "standing": 4,
+      "walking": 4,
+      "jumping": 4,
+      "still": 4
+    }
+  }
+}
