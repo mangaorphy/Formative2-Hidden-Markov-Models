@@ -198,7 +198,7 @@ Raw Recording → Segmentation → Feature Extraction → Normalization
                                       ↓
                               Score with 4 HMMs
                                       ↓
-                          Choose highest log-likelihood
+                          Choose the highest log-likelihood
                                       ↓
                               Predicted Activity
 ```
@@ -219,7 +219,7 @@ Raw Recording → Segmentation → Feature Extraction → Normalization
 ### Confusion Matrix
 
 ```
-              jumping  standing  still  walking
+              jumping,  standing  still,  walking
 jumping          4        0       0       0
 standing         1        3       0       0
 still            0        0       3       1
@@ -263,7 +263,7 @@ Each recording contains:
 1. **Temporal Modeling:** HMMs naturally model sequential patterns
 2. **Probabilistic Framework:** Handles sensor noise and variability
 3. **Interpretable States:** Hidden states represent activity phases
-4. **Efficient Training:** EM algorithm works well with limited data
+4. **Efficient Training:** The EM algorithm works well with limited data
 5. **Real-time Capable:** Fast inference with Viterbi algorithm
 
 ### Advantages Over Traditional ML
@@ -281,12 +281,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is part of an academic formative assessment for Machine Learning coursework at ALU (African Leadership University).
 
-##  Contact
 
-For questions or feedback, please contact the project maintainer.
 
 ---
 
 **Project Date:** March 2026  
-**Course:** Machine Learning - Formative Assessment  
+**Course:** Machine Learning Techniques 2- Formative Assessment  
 **Institution:** African Leadership University (ALU)
